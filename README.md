@@ -1,4 +1,4 @@
-<h1 align="center">AppUpdater <a href="https://github.com/javiersantos/AppUpdater#how-to-include"><img src="https://jitpack.io/v/javiersantos/AppUpdater.svg"></a></h1>
+<h1 align="center">AppUpdater fork <a href="https://github.com/javiersantos/AppUpdater#how-to-include"><img src="https://jitpack.io/v/javiersantos/AppUpdater.svg"></a></h1>
 <h4 align="center">Android Library</h4>
 
 <p align="center">
@@ -28,7 +28,7 @@ repositories {
 And add the library to your module **build.gradle**:
 ```Javascript
 dependencies {
-    compile 'com.github.javiersantos:AppUpdater:2.4'
+    compile 'com.github.sugoi-wada:appupdater:2.4.0.1'
 }
 ```
 
@@ -140,6 +140,7 @@ appUpdaterUtils.start();
 
 ## License
 	Copyright 2016 Javier Santos
+	Copyright 2016 Hikaru Wada
 	
 	Licensed under the Apache License, Version 2.0 (the "License");
 	you may not use this file except in compliance with the License.
